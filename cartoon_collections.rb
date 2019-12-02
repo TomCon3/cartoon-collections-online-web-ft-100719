@@ -7,6 +7,7 @@ end
 end
 
 def summon_captain_planet(calls)
+  nu_array = []
   
 end
 
