@@ -22,7 +22,8 @@ def long_planeteer_calls(long_calls)
     return TRUE
   else
     return FALSE
-    
+    i = i + 1
+  end 
 end
 
 def find_the_cheese# code an argument here
